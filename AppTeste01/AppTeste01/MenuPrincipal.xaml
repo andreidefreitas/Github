@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+            xmlns="http://xamarin.com/schemas/2014/forms"
+            xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            mc:Ignorable="d"
+            x:Class="AppTeste01.MenuPrincipal">
+
+    <Grid BackgroundColor="Black" RowSpacing="8" ColumnSpacing="8" Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Text="" x:Name="lblRelogio" />
+        <Image Source="" BackgroundColor="Gray"
+               Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1" Grid.RowSpan="5" />
+        <Button Text="OPÇÃO01" Grid.Row="5" Grid.Column="0" BackgroundColor="Orange"/>
+        <Button Text="OPÇÃO02" Grid.Row="5" Grid.Column="1" BackgroundColor="Orange"/>
+        <Button Text="OPÇÃO03" Grid.Row="6" Grid.Column="0" BackgroundColor="Orange"/>
+        <Button Text="OPÇÃO04" Grid.Row="6" Grid.Column="1" BackgroundColor="Orange"/>
+        <Button Text="OPÇÃO05" Grid.Row="7" Grid.Column="0" BackgroundColor="Orange"/>
+        <Button Text="Sobre" Grid.Row="7" Grid.Column="1" BackgroundColor="Orange"/>
+        <BoxView  Color="DarkOrange" Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2"/>
+    </Grid>
+    
+</ContentPage>
