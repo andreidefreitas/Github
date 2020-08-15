@@ -1,0 +1,5 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularMediaSalarial\CalcularMediaSalarial\bin\Debug\CalcularMediaSalarial.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularMediaSalarial\CalcularMediaSalarial\bin\Debug\CalcularMediaSalarial.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularMediaSalarial\CalcularMediaSalarial\bin\Debug\CalcularMediaSalarial.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularMediaSalarial\CalcularMediaSalarial\obj\Debug\CalcularMediaSalarial.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularMediaSalarial\CalcularMediaSalarial\obj\Debug\CalcularMediaSalarial.pdb

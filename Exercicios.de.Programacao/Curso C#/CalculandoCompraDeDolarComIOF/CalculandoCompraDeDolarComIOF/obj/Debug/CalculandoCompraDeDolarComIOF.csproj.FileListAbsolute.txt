@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\CalculandoCompraDeDolarComIOF\CalculandoCompraDeDolarComIOF\bin\Debug\CalculandoCompraDeDolarComIOF.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\CalculandoCompraDeDolarComIOF\CalculandoCompraDeDolarComIOF\obj\Debug\CalculandoCompraDeDolarComIOF.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\CalculandoCompraDeDolarComIOF\CalculandoCompraDeDolarComIOF\bin\Debug\CalculandoCompraDeDolarComIOF.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\CalculandoCompraDeDolarComIOF\CalculandoCompraDeDolarComIOF\bin\Debug\CalculandoCompraDeDolarComIOF.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\CalculandoCompraDeDolarComIOF\CalculandoCompraDeDolarComIOF\obj\Debug\CalculandoCompraDeDolarComIOF.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\CalculandoCompraDeDolarComIOF\CalculandoCompraDeDolarComIOF\obj\Debug\CalculandoCompraDeDolarComIOF.pdb

@@ -1,0 +1,1 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\ProdutoEmEstoqueV2\ProdutoEmEstoqueV2\bin\Debug\ProdutoEmEstoqueV2.exe.config

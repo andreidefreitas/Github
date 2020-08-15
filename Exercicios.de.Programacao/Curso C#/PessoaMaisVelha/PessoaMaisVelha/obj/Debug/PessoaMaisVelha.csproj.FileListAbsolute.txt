@@ -1,0 +1,5 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\PessoaMaisVelha\PessoaMaisVelha\bin\Debug\PessoaMaisVelha.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\PessoaMaisVelha\PessoaMaisVelha\obj\Debug\PessoaMaisVelha.pdb

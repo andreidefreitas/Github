@@ -1,0 +1,5 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\ProdutosEmEstoque.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\ProdutosEmEstoque.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\ProdutosEmEstoque\ProdutosEmEstoque\bin\Debug\ProdutosEmEstoque.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\ProdutosEmEstoque.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\ProdutosEmEstoque\ProdutosEmEstoque\obj\Debug\ProdutosEmEstoque.pdb

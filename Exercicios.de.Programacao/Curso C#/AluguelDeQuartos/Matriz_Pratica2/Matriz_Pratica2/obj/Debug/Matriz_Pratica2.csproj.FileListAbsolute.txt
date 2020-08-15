@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matriz_Pratica2\Matriz_Pratica2\bin\Debug\Matriz_Pratica2.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matriz_Pratica2\Matriz_Pratica2\bin\Debug\Matriz_Pratica2.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matriz_Pratica2\Matriz_Pratica2\bin\Debug\Matriz_Pratica2.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matriz_Pratica2\Matriz_Pratica2\obj\Debug\Matriz_Pratica2.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matriz_Pratica2\Matriz_Pratica2\obj\Debug\Matriz_Pratica2.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matriz_Pratica2\Matriz_Pratica2\obj\Debug\Matriz_Pratica2.csprojResolveAssemblyReference.cache

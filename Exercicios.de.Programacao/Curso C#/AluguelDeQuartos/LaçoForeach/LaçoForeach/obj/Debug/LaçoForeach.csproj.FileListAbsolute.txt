@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\LaçoForeach\LaçoForeach\bin\Debug\LaçoForeach.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\LaçoForeach\LaçoForeach\bin\Debug\LaçoForeach.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\LaçoForeach\LaçoForeach\bin\Debug\LaçoForeach.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\LaçoForeach\LaçoForeach\obj\Debug\LaçoForeach.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\LaçoForeach\LaçoForeach\obj\Debug\LaçoForeach.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\LaçoForeach\LaçoForeach\obj\Debug\LaçoForeach.pdb

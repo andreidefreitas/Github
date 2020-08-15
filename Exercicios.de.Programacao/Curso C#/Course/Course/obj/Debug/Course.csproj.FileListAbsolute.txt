@@ -1,0 +1,5 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\Course\Course\bin\Debug\Course.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\Course\Course\bin\Debug\Course.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\Course\Course\bin\Debug\Course.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\Course\Course\obj\Debug\Course.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\Course\Course\obj\Debug\Course.pdb

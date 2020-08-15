@@ -1,0 +1,1 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularMediaDePrecosEntreProdutos\CalcularMediaDePrecosEntreProdutos\bin\Debug\CalcularMediaDePrecosEntreProdutos.exe.config

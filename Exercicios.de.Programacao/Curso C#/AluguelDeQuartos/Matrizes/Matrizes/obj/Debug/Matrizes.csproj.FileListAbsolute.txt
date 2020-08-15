@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes\Matrizes\bin\Debug\Matrizes.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes\Matrizes\bin\Debug\Matrizes.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes\Matrizes\bin\Debug\Matrizes.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes\Matrizes\obj\Debug\Matrizes.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes\Matrizes\obj\Debug\Matrizes.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes\Matrizes\obj\Debug\Matrizes.pdb

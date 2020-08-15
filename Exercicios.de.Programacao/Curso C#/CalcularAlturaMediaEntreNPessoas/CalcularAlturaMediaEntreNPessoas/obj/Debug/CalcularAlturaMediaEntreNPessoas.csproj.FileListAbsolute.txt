@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularAlturaMediaEntreNPessoas\CalcularAlturaMediaEntreNPessoas\bin\Debug\CalcularAlturaMediaEntreNPessoas.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularAlturaMediaEntreNPessoas\CalcularAlturaMediaEntreNPessoas\bin\Debug\CalcularAlturaMediaEntreNPessoas.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularAlturaMediaEntreNPessoas\CalcularAlturaMediaEntreNPessoas\bin\Debug\CalcularAlturaMediaEntreNPessoas.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularAlturaMediaEntreNPessoas\CalcularAlturaMediaEntreNPessoas\obj\Debug\CalcularAlturaMediaEntreNPessoas.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularAlturaMediaEntreNPessoas\CalcularAlturaMediaEntreNPessoas\obj\Debug\CalcularAlturaMediaEntreNPessoas.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\CalcularAlturaMediaEntreNPessoas\CalcularAlturaMediaEntreNPessoas\obj\Debug\CalcularAlturaMediaEntreNPessoas.pdb

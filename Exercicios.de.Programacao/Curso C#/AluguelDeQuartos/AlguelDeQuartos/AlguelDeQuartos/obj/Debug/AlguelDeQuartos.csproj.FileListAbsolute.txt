@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\AlguelDeQuartos\AlguelDeQuartos\bin\Debug\AlguelDeQuartos.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\AlguelDeQuartos\AlguelDeQuartos\bin\Debug\AlguelDeQuartos.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\AlguelDeQuartos\AlguelDeQuartos\bin\Debug\AlguelDeQuartos.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\AlguelDeQuartos\AlguelDeQuartos\obj\Debug\AlguelDeQuartos.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\AlguelDeQuartos\AlguelDeQuartos\obj\Debug\AlguelDeQuartos.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\AlguelDeQuartos\AlguelDeQuartos\obj\Debug\AlguelDeQuartos.pdb

@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\MediaAlunos\MediaAlunos\bin\Debug\MediaAlunos.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\MediaAlunos\MediaAlunos\obj\Debug\MediaAlunos.pdb

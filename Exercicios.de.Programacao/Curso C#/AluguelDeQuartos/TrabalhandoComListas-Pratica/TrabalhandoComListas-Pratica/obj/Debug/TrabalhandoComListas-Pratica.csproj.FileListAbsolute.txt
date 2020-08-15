@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\TrabalhandoComListas-Pratica\TrabalhandoComListas-Pratica\bin\Debug\TrabalhandoComListas-Pratica.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\TrabalhandoComListas-Pratica\TrabalhandoComListas-Pratica\bin\Debug\TrabalhandoComListas-Pratica.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\TrabalhandoComListas-Pratica\TrabalhandoComListas-Pratica\bin\Debug\TrabalhandoComListas-Pratica.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\TrabalhandoComListas-Pratica\TrabalhandoComListas-Pratica\obj\Debug\TrabalhandoComListas-Pratica.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\TrabalhandoComListas-Pratica\TrabalhandoComListas-Pratica\obj\Debug\TrabalhandoComListas-Pratica.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\TrabalhandoComListas-Pratica\TrabalhandoComListas-Pratica\obj\Debug\TrabalhandoComListas-Pratica.pdb

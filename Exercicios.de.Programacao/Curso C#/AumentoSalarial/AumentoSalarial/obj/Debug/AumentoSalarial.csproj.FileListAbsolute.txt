@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\AumentoSalarial\AumentoSalarial\bin\Debug\AumentoSalarial.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\AumentoSalarial\AumentoSalarial\bin\Debug\AumentoSalarial.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AumentoSalarial\AumentoSalarial\bin\Debug\AumentoSalarial.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AumentoSalarial\AumentoSalarial\obj\Debug\AumentoSalarial.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\AumentoSalarial\AumentoSalarial\obj\Debug\AumentoSalarial.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AumentoSalarial\AumentoSalarial\obj\Debug\AumentoSalarial.pdb

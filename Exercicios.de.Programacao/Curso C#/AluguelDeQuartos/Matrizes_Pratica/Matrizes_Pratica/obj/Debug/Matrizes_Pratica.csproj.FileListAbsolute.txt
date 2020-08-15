@@ -1,0 +1,6 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes_Pratica\Matrizes_Pratica\bin\Debug\Matrizes_Pratica.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes_Pratica\Matrizes_Pratica\bin\Debug\Matrizes_Pratica.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes_Pratica\Matrizes_Pratica\bin\Debug\Matrizes_Pratica.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes_Pratica\Matrizes_Pratica\obj\Debug\Matrizes_Pratica.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes_Pratica\Matrizes_Pratica\obj\Debug\Matrizes_Pratica.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\AluguelDeQuartos\Matrizes_Pratica\Matrizes_Pratica\obj\Debug\Matrizes_Pratica.pdb

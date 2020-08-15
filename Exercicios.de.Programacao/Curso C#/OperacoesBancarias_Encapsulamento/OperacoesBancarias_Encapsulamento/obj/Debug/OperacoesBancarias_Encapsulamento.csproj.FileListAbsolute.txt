@@ -1,0 +1,7 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\OperacoesBancarias_Encapsulamento\OperacoesBancarias_Encapsulamento\bin\Debug\OperacoesBancarias_Encapsulamento.exe.config
+C:\Github\Exercicios.de.Programacao\Curso C#\OperacoesBancarias_Encapsulamento\OperacoesBancarias_Encapsulamento\bin\Debug\OperacoesBancarias_Encapsulamento.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\OperacoesBancarias_Encapsulamento\OperacoesBancarias_Encapsulamento\bin\Debug\OperacoesBancarias_Encapsulamento.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\OperacoesBancarias_Encapsulamento\OperacoesBancarias_Encapsulamento\obj\Debug\OperacoesBancarias_Encapsulamento.csprojResolveAssemblyReference.cache
+C:\Github\Exercicios.de.Programacao\Curso C#\OperacoesBancarias_Encapsulamento\OperacoesBancarias_Encapsulamento\obj\Debug\OperacoesBancarias_Encapsulamento.exe
+C:\Github\Exercicios.de.Programacao\Curso C#\OperacoesBancarias_Encapsulamento\OperacoesBancarias_Encapsulamento\obj\Debug\OperacoesBancarias_Encapsulamento.pdb
+C:\Github\Exercicios.de.Programacao\Curso C#\OperacoesBancarias_Encapsulamento\OperacoesBancarias_Encapsulamento\bin\Debug\OperacoesBancarias.exe.config

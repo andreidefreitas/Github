@@ -1,0 +1,1 @@
+C:\Github\Exercicios.de.Programacao\Curso C#\CalculandoValoresDoRetangulo\CalculandoValoresDoRetangulo\bin\Debug\CalculandoValoresDoRetangulo.exe.config
